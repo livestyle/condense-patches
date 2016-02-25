@@ -1,0 +1,30 @@
+{
+  "name": "condense-patches",
+  "version": "1.0.0",
+  "description": "Helper utility to condense a list of LiveStyle patches that will produce the same result as original list",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "livestyle",
+    "patch"
+  ],
+  "author": "Sergey Chikuyonok <serge.che@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livestyle/condense-patches.git"
+  },
+  "bugs": {
+    "url": "https://github.com/livestyle/condense-patches/issues"
+  },
+  "homepage": "https://github.com/livestyle/condense-patches"
+}
